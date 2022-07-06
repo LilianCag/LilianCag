@@ -5,8 +5,6 @@
 
 - 🎮 I’m currently learning **game development**
 
-- 🔭 You can access my portfolio [here](liliancagnon.com)
-
 - 📫 How to reach me cagnon.lilian@outlook.fr
 
 - 📄 I am a graduate of a **Master's Degree in Computer Science**
