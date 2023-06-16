@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lilian Cagnon</h1>
-<h3 align="center">A young graduate, IT manager in the northern France</h3>
+<h3 align="center">A young graduate, Project Manager and Odoo Consultant in the northern France</h3>
 
 - 💻 I’m currently working on **my portfolio**
 
