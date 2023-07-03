@@ -5,8 +5,6 @@
 
 - 🎮 I’m currently learning **game development**
 
-- 📫 You can mail me at cagnon.lilian@outlook.fr
-
 - 📄 I am a graduate of a **Master's Degree in Computer Science**
 
 - 🎸 I am learning **Japanese** and **Music Theory**
