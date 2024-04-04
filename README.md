@@ -4,8 +4,6 @@
 
 💻 I work as an **Odoo integrator and project manager at CAPTIVEA**.
 
-🎮 I’m currently learning **video game development on Unreal Engine**.
-
 🪐 I am a graduate of a **Master's Degree in Computer Science**.
 
 🎸 I am learning **Japanese** and **Music Theory**.
